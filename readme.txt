@@ -1,3 +1,7 @@
 this is my first Git commit.
 I make a change here.
-Now I come back to master branch
+<<<<<<< HEAD
+Now I created a new branch named "dev".
+=======
+Now I created a new branch named "dev".
+>>>>>>> dev
